@@ -2,8 +2,8 @@
 
 ## I'm Friyogi Tampubolon
 
-#### -Graduated Master Class + On Job Training Data Science in Bisa Ai Academy
-#### -Interested in Data, Machine Learning, Internet of Things
+#### - Graduated Master Class + On Job Training Data Science in Bisa Ai Academy
+#### - Interested in Data, Machine Learning, Internet of Things
 <!--
 **1friyogi/1friyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
