@@ -1,6 +1,8 @@
 ### Horas... 👋
 
 ## I'm Friyogi Tampubolon
+
+# _**Interested in Data, Machine Learning, Internet of Things**_
 <!--
 **1friyogi/1friyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
