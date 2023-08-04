@@ -3,7 +3,7 @@
 ## I'm Friyogi Tampubolon
 
 * Graduated **Master Class + On Job Training Data Science** in **[Bisa Ai Academy](https://bisa.ai)**
-* Interested in Data, Machine Learning, Internet of Things
+* Interested in Data, Quality Assurance, Machine Learning, Internet of Things
 * **Contact** : 📱 +6282277095994   |   📧 yogitampu23@gmail.com   |   [LinkedIn](https://www.linkedin.com/in/friyogi-tampubolon/)
 
 <!--
